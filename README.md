@@ -1,2 +1,2 @@
-# test-upstream
-TEST: the main upstream repo
+# test-downstream
+TEST: the downstream repo to detach
